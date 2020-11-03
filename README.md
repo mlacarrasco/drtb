@@ -2,3 +2,6 @@ The CO2 and water vapor exchange between leaf and atmosphere are relevant for pl
 
 Authors: Miguel Carrrasco 1*, Patricio A. Toledo, Ramiro Velázquez and Odemir M. Bruno
 *corresponding Author mlacarrasco@gmail.com
+
+Usage:
+Run: stomata_segmentation.m
