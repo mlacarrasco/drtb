@@ -20,5 +20,7 @@ This package contains programs written by Carrasco, M.; Toledo, P.A.; Velázquez
 for the implementation of Automatic Stomatal Segmentation Based on Delaunay-Rayleigh Frequency Distance
 described in the article:
 
-Carrasco, M.; Toledo, P.A.; Velázquez, R.; Bruno, O.M. Automatic Stomatal Segmentation Based on 
-Delaunay-Rayleigh Frequency Distance. Plants 2020, 9, 1613. https://doi.org/10.3390/plants9111613
+   Carrasco, M.; Toledo, P.A.; Velázquez, R.; Bruno, O.M. Automatic Stomatal Segmentation Based on 
+   Delaunay-Rayleigh Frequency Distance. Plants 2020, 9, 1613. https://doi.org/10.3390/plants9111613
+
+Link : https://doi.org/10.3390/plants9111613
